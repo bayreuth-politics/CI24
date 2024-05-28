@@ -14,5 +14,5 @@ nav_order: 2
 
 [Lecture 4](https://raw.githubusercontent.com/bayreuth-politics/CI24/main/docs/lectures/CI_24_Slides_Bayreuth_week4.pdf){: .btn .btn-blue .mr-3}
 
-
+[Lecture 5](https://raw.githubusercontent.com/bayreuth-politics/CI24/main/docs/lectures/CI_24_Slides_Bayreuth_week5.pdf){: .btn .btn-blue .mr-3}
 
