@@ -10,9 +10,9 @@ This is the page of the Causal Inference course in Spring Term 2024 at the Unive
 
 ## Classes
 
-• **Labs:** Tuesday 12pm-2pm. On Teams until further notice. **Tuesday 04 June: S6 (GWII)**
+• **Labs:** Tuesday 12pm-2pm. On Teams until further notice. **Tuesday 18 June: CANCELLED**
 
-• **Lectures:** Thursday 12pm-2pm. On Teams until further notice. **Thursday 06 June: S66 (RWI)** [Join teams meeting here!](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU1YmQ2ZjMtNjcyNi00YjNhLWJjNjYtMmVkYjI0NWE1ODlj%40thread.v2/0?context=%7b%22Tid%22%3a%2254d63e24-ac6d-4c5e-a8d6-ba978a0b286e%22%2c%22Oid%22%3a%228b4c4600-7d30-4656-8e36-810bca1dcc9f%22%7d)
+• **Lectures:** Thursday 12pm-2pm. On Teams until further notice. **Thursday 20 June: S66 (RWI)** 
 
 ## Assessments
 
