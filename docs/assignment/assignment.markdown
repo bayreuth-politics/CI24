@@ -16,7 +16,7 @@ Everything you need to answer the exercises you'll find in the readings, lecture
 
 Best of luck!
 
-[Take-Home Exam](){: .btn .btn-green }
+[Take-Home Exam](https://bayreuth-politics.github.io/CI24/assignment/CI24_Bayreuth_THE){: .btn .btn-green }
 
 [Take-Home Exam - Data Ex.5](https://bayreuth-politics.github.io/CI24/assignment/Vietnam_matching.dta){: .btn .btn-blue }
 [Take-Home Exam - Data Ex.6](https://bayreuth-politics.github.io/CI24/assignment/AJR.dta){: .btn .btn-blue }
