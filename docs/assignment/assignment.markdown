@@ -5,6 +5,8 @@ permalink: /the/
 nav_order: 1
 ---
 
+## MAKE SURE TO REGISTER ON CAMPUSONLINE FOR THE EXAM BY 23 JULY! ##
+
 ## Take-Home Exam
 <br>
 
